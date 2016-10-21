@@ -1,3 +1,5 @@
 # Hello-World
 Creating a repository
-my name is scott
+
+Hello, 
+I have no idea what I am doing but I will figure it out.
